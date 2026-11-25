@@ -57,7 +57,7 @@ window.CUISINE = {
     { name: "Chicken", description: ".", price: "PHP35 to PHP50", eatery: "Around INNHS or Canteen", photo: "images/meals-5.jpg" },
     { name: "Pancit", description: ".", price: "PHP20 to PHP40", eatery: "Sandras Eatery", photo: "images/meals-6.jpg" },
     { name: "Fried Noodles", description: ".", price: "PHP35", eatery: "Yellow House", photo: "images/meals-7.jpg" },
-    { name: "Silog Meals", description: ".", price: "PHP70 to PHP120", eatery: ""Nenings or Yellow House, photo: "images/meals-8.jpg" },
+    { name: "Silog Meals", description: ".", price: "PHP70 to PHP120", eatery: "Nenings or Yellow House", photo: "images/meals-8.jpg" },
     { name: "Pares or Goto", description: ".", price: "PHP40 to PHP60", eatery: "Around INNHS", photo: "images/meals-9.jpg" }
   ],
 
