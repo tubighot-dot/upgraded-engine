@@ -50,15 +50,15 @@ window.CUISINE = {
   /* MEALS AND EVERYDAY EATS (9 cards)
      The first 3 also appear as the preview on the Home page. */
   meals: [
-    { name: "", description: "", price: "", eatery: "", photo: "images/meals-1.jpg" },
-    { name: "", description: "", price: "", eatery: "", photo: "images/meals-2.jpg" },
-    { name: "", description: "", price: "", eatery: "", photo: "images/meals-3.jpg" },
-    { name: "", description: "", price: "", eatery: "", photo: "images/meals-4.jpg" },
-    { name: "", description: "", price: "", eatery: "", photo: "images/meals-5.jpg" },
-    { name: "", description: "", price: "", eatery: "", photo: "images/meals-6.jpg" },
-    { name: "", description: "", price: "", eatery: "", photo: "images/meals-7.jpg" },
-    { name: "", description: "", price: "", eatery: "", photo: "images/meals-8.jpg" },
-    { name: "", description: "", price: "", eatery: "", photo: "images/meals-9.jpg" }
+    { name: "Meal in a Box", description: ".", price: "PHP80 to PHP100", eatery: "In Front Of INNHS", photo: "images/meals-1.jpg" },
+    { name: "Pastil", description: ".", price: "PHP35 to PHP50", eatery: "Around INNHS or Canteen", photo: "images/meals-2.jpg" },
+    { name: "Siomai Rice", description: ".", price: "PHP35 to PHP45", eatery: "Around INNHS or Canteen", photo: "images/meals-3.jpg" },
+    { name: "Sisig", description: ".", price: "PHP35 to PHP45", eatery: "Around INNHS or Canteen", photo: "images/meals-4.jpg" },
+    { name: "Chicken", description: ".", price: "PHP35 to PHP50", eatery: "Around INNHS or Canteen", photo: "images/meals-5.jpg" },
+    { name: "Pancit", description: ".", price: "PHP20 to PHP40", eatery: "Sandras Eatery", photo: "images/meals-6.jpg" },
+    { name: "Fried Noodles", description: ".", price: "PHP35", eatery: "Yellow House", photo: "images/meals-7.jpg" },
+    { name: "Silog Meals", description: ".", price: "PHP70 to PHP120", eatery: ""Nenings or Yellow House, photo: "images/meals-8.jpg" },
+    { name: "Pares or Goto", description: ".", price: "PHP40 to PHP60", eatery: "Around INNHS", photo: "images/meals-9.jpg" }
   ],
 
   /* SNACKS AND STREET FOODS (9 cards)
