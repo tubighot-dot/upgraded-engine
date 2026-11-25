@@ -66,15 +66,15 @@ window.CUISINE = {
      Cards 4-9 show under "Quick Bites Around Campus".
      The first 3 also appear as the preview on the Home page. */
   snacks: [
-    { name: "", description: "", price: "", eatery: "", photo: "images/snacks-1.jpg" },
-    { name: "", description: "", price: "", eatery: "", photo: "images/snacks-2.jpg" },
-    { name: "", description: "", price: "", eatery: "", photo: "images/snacks-3.jpg" },
-    { name: "", description: "", price: "", eatery: "", photo: "images/snacks-4.jpg" },
-    { name: "", description: "", price: "", eatery: "", photo: "images/snacks-5.jpg" },
-    { name: "", description: "", price: "", eatery: "", photo: "images/snacks-6.jpg" },
-    { name: "", description: "", price: "", eatery: "", photo: "images/snacks-7.jpg" },
-    { name: "", description: "", price: "", eatery: "", photo: "images/snacks-8.jpg" },
-    { name: "", description: "", price: "", eatery: "", photo: "images/snacks-9.jpg" }
+    { name: "Fishball", description: ".", price: "Varies", eatery: "Around INNHS", photo: "images/snacks-1.jpg" },
+    { name: "Fries", description: ".", price: "Varies", eatery: "Around INNHS", photo: "images/snacks-2.jpg" },
+    { name: "Pogo Balls", description: ".", price: "PHP35", eatery: "Around INNHS", photo: "images/snacks-3.jpg" },
+    { name: "Scramble", description: ".", price: "Varies", eatery: "Around INNHS", photo: "images/snacks-4.jpg" },
+    { name: "Sinukaan", description: ".", price: "Varies", eatery: "Infront of Main INNHS", photo: "images/snacks-5.jpg" },
+    { name: "Siomai", description: ".", price: "Varies", eatery: "", photo: "images/snacks-6.jpg" },
+    { name: "Lumpia", description: ".", price: "PHP 10 to PHP20", eatery: "Beside INNHS", photo: "images/snacks-7.jpg" },
+    { name: "Maruya", description: ".", price: "PHP 15", eatery: "Beside INNHS", photo: "images/snacks-8.jpg" },
+    { name: "Turon", description: ".", price: "PHP 10 to PHP 15", eatery: "Beside INNHS", photo: "images/snacks-9.jpg" }
   ],
 
   /* GALLERY (15 photos). "title" is the food or eatery name. */
