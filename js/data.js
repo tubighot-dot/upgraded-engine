@@ -79,20 +79,20 @@ window.CUISINE = {
 
   /* GALLERY (15 photos). "title" is the food or eatery name. */
   gallery: [
-    { title: "", caption: "", photo: "images/gallery-1.jpg" },
-    { title: "", caption: "", photo: "images/gallery-2.jpg" },
-    { title: "", caption: "", photo: "images/gallery-3.jpg" },
-    { title: "", caption: "", photo: "images/gallery-4.jpg" },
-    { title: "", caption: "", photo: "images/gallery-5.jpg" },
-    { title: "", caption: "", photo: "images/gallery-6.jpg" },
-    { title: "", caption: "", photo: "images/gallery-7.jpg" },
-    { title: "", caption: "", photo: "images/gallery-8.jpg" },
-    { title: "", caption: "", photo: "images/gallery-9.jpg" },
-    { title: "", caption: "", photo: "images/gallery-10.jpg" },
-    { title: "", caption: "", photo: "images/gallery-11.jpg" },
-    { title: "", caption: "", photo: "images/gallery-12.jpg" },
-    { title: "", caption: "", photo: "images/gallery-13.jpg" },
-    { title: "", caption: "", photo: "images/gallery-14.jpg" },
-    { title: "", caption: "", photo: "images/gallery-15.jpg" }
+    { title: "FOODS ifykyk", caption: ".", photo: "images/gallery-1.jpg" },
+    { title: "Food", caption: ".", photo: "images/gallery-2.jpg" },
+    { title: "Food", caption: ".", photo: "images/gallery-3.jpg" },
+    { title: "Food", caption: ".", photo: "images/gallery-4.jpg" },
+    { title: "Food", caption: ".", photo: "images/gallery-5.jpg" },
+    { title: "Food", caption: ".", photo: "images/gallery-6.jpg" },
+    { title: "Food", caption: ".", photo: "images/gallery-7.jpg" },
+    { title: "Food", caption: ".", photo: "images/gallery-8.jpg" },
+    { title: "Food", caption: ".", photo: "images/gallery-9.jpg" },
+    { title: "Food", caption: ".", photo: "images/gallery-10.jpg" },
+    { title: "Food", caption: ".", photo: "images/gallery-11.jpg" },
+    { title: "Food", caption: ".", photo: "images/gallery-12.jpg" },
+    { title: "Food", caption: ".", photo: "images/gallery-13.jpg" },
+    { title: "Food", caption: ".", photo: "images/gallery-14.jpg" },
+    { title: "Food", caption: ".", photo: "images/gallery-15.jpg" }
   ]
 };
